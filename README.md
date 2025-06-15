@@ -83,6 +83,13 @@ Toggle dark mode anytime with the 🌙 button in the top-right corner.
 - [x] Search, sort, pagination, dark mode, and more!
 
 ---
+## ⚡ Trade-offs & Improvements
+
+- **Optimistic UI** for instant feedback, but no undo for deletes.
+- **No authentication** (can be added for multi-user support).
+- **Further improvements:** offline support, tags, rich text notes, PWA.
+
+---
 
 ## 👤 Author
 
