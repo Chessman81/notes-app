@@ -84,14 +84,6 @@ Toggle dark mode anytime with the 🌙 button in the top-right corner.
 
 ---
 
-## ⚡ Trade-offs & Improvements
-
-- **Optimistic UI** for instant feedback, but no undo for deletes.
-- **No authentication** (can be added for multi-user support).
-- **Further improvements:** offline support, tags, rich text notes, PWA.
-
----
-
 ## 👤 Author
 
 **[Chessman81](https://github.com/Chessman81)**
